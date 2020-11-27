@@ -120,10 +120,6 @@ export default {
       type: Object,
       default: () => ({}),
     },
-    pageMethods: {
-      type: Object,
-      default: () => ({}),
-    },
   },
 
   computed: {
